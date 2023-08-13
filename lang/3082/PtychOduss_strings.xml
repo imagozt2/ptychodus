@@ -1,0 +1,129 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <PtychOduss>Ptychodus</PtychOduss>
+      <PtychOduss_stt>Ptychodus</PtychOduss_stt>
+      <PtychOduss_lower>el Ptychodus</PtychOduss_lower>
+      <PtychOduss_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ptychodus</b>
+         </color>
+         <br/>
+         Click para adoptar un Ptychodus.
+      </PtychOduss_ltt>
+      <!--gift names-->
+      <PtychOduss_Gift>Ptychodus</PtychOduss_Gift>
+      <PtychOduss_Gift_stt>Ptychodus</PtychOduss_Gift_stt>
+      <PtychOduss_Gift_lower>Ptychodus</PtychOduss_Gift_lower>
+      <PtychOduss_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ptychodus</b>
+         </color>
+         <br/>.
+      </PtychOduss_Gift_ltt>
+</entityname>
+<zoopedia_ptychoduss>
+ <entry>Ptychodus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/PtychOduss/PtychOduss_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Arrecife<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Kansas<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: condrictios <i>(Chondricthyes)</i><br/>Orden: Hybodontiformes<i>(Hybodonta)</i><br/>Familia: <i>Ptychodontidae</i><br/>Genero: <i>Ptychodus</i><br/>Especie: <i>P. Mortoni</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades del Ptychodus</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El Ptychodus media 10 metros de largo.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Era un tiburon que comia marisco.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivió en el Cretacico.</color>   
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Ptychodus en los modos campaña y desafio necesitas al menos un nivel de 3 estrellas de fama en tu zoo.</color>
+   <p/>Un equipo de paleontologos descubrió en Kansas, Estados Unidos, los restos fosilizados de un Ptychodus de diez metros de largo que vivio hace unos 89 millones de anyos. Se estima que puede tratarse del mayor depredador de crustaceos que jamas haya existido, como informa Matt Walker, editor de BBC Ciencia. Los expertos ya conocían la existencia de la especie, pero el nuevo ejemplar sugiere que era mucho mayor de lo que se pensaba. Los detalles del hallazgo aparecen publicados en el ultimo numero de la revista especializada Cretaceous Research.
+  
+<p/>El Ptychodus puede llegar a medir 10 metros, y se alimenta de marisco y posiblemente de peces moribundos, ya que su boca de 1 metro se lo podia permitir. Su modo de vida era muy similar al del Tiburon nodriza.
+
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de: <color r="255" g="231" b="135">Wikipedia</color>  Hecho por Imago <color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_ptychoduss>
+</ZT2Strings>

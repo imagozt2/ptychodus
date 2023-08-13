@@ -1,0 +1,130 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <PtychOduss>Ptychodus</PtychOduss>
+      <PtychOduss_stt>Ptychodus</PtychOduss_stt>
+      <PtychOduss_lower>the Ptychodus</PtychOduss_lower>
+      <PtychOduss_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ptychodus</b>
+         </color>
+         <br/>
+         Click to select and place a Ptychodus.
+      </PtychOduss_ltt>
+      <!--gift names-->
+      <PtychOduss_Gift>Ptychodus </PtychOduss_Gift>
+      <PtychOduss_Gift_stt>Ptychodus </PtychOduss_Gift_stt>
+      <PtychOduss_Gift_lower>Ptychodus </PtychOduss_Gift_lower>
+      <PtychOduss_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ptychodus</b>
+         </color>
+         <br/>.
+      </PtychOduss_Gift_ltt>
+</entityname>
+<zoopedia_ptychoduss>
+ <entry>Ptychodus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/PtychOduss/PtychOduss_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/></color>
+                        <color r="255" g="255" b="255">
+                      Extinct
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Reef<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Kansas<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>Chondrichthyes</i><br/>Order: <i>Hybodontiformes</i><br/>Family: <i>Ptychodontidae</i><br/>Genus: <i>Ptychodus</i><br/>Species: <i>P. Mortoni</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Ptychodus Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ptychodus size 10 m</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ptychodus lived in cretaceous.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ptychoduss eat crustaceous.</color>   
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+	To unlock the Ptychodus in challenge and campaign games, you must earn a 3 star zoo fame rating for your zoo.</color>
+<p/>
+    Scientists dug up a gigantic jawbone, teeth and scales belonging to the shark which lived 89 million years ago. The bottom-dwelling predator had huge tooth plates, which it likely used to crush large shelled animals such as giant clams. Palaeontologists already knew about the shark, but the new specimen suggests it was far bigger than previously thought. The scientists who made the discovery, published in the journal Cretaceous Research, last week also released details of other newly discovered giant plankton-eating fish that swam in prehistoric seas for more than 100 million years..
+<p/>
+But this new fish, called Ptychodus mortoni, is both bigger and more fierce, having a taste for flesh rather than plankton. It may even have been the largest shellfish-eating animal ever to have roamed the Earth. Dr Kenshu Shimada of DePaul university in Chicago, Illinois, US found the fossilized remains of the shark in rocks known as the Fort Hays Limestone in Kansas..
+<p/>
+Due to the lack of a complete skeleton, it is difficult to gauge the physical appearance of the shark. But Dr Shimada suspects it had a body shaped much like that of a modern nurse shark (Ginglymostoma cirratum), with a broad rounded head and stout body. However, its teeth and lifestyle would have been very different. Hundreds of robust teeth line the upper and lower parts of the shark's mouth, forming large slab-like plates capable of crushing shellfish..
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from <color r="255" g="231" b="135">http://news.bbc.co.uk/earth/hi/earth_news/newsid_8530000/8530995.stm</color> Created by Imago<color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_ptychoduss>
+</ZT2Strings>
